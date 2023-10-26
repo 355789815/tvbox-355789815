@@ -5,7 +5,7 @@
         {
             "name":"World TV",
             "type":0,
-            "url":"https://github.com/355789815/tvbox/tree/main/-/raw/master/vip.txt?ref_type=heads",
+            "url":"./vip.txt?ref_type=heads",
             "playerType":1
         }
     ],
