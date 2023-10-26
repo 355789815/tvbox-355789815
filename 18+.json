@@ -5,7 +5,7 @@
         {
             "name":"World TV",
             "type":0,
-            "url":"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tLzM1NTc4OTgxNS90dmJveC9ibG9iL21haW4vdmlwLnR4dAo=",
+            "url":"https://github.com/355789815/tvbox/blob/main/vip.txt?ref_type=heads",
             "playerType":1
         }
     ],
